@@ -3,13 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.automation.practice3.buyProduct">
+      <class name="com.automation.practice4.brokenLinksVerify">
         <methods>
-          <include name="wishlist"/>
-          <include name="totalPriceVerify"/>
-          <include name="buy"/>
+          <include name="links"/>
         </methods>
-      </class> <!-- com.automation.practice3.buyProduct -->
+      </class> <!-- com.automation.practice4.brokenLinksVerify -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

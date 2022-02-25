@@ -1,235 +1,527 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="3" passed="0" failed="3" skipped="0">
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
+    <line>
+      <![CDATA[85No. of links]]>
+    </line>
+    <line>
+      <![CDATA[https://phptravels.com/-OK]]>
+    </line>
+    <line>
+      <![CDATA[https://phptravels.com/demo-OK]]>
+    </line>
+    <line>
+      <![CDATA[https://phptravels.com/order-OK]]>
+    </line>
+    <line>
+      <![CDATA[https://phptravels.com/features-OK]]>
+    </line>
+    <line>
+      <![CDATA[https://phptravels.com/hotels-module-features/-OK]]>
+    </line>
+    <line>
+      <![CDATA[https://phptravels.com/flights-module-features/-OK]]>
+    </line>
+    <line>
+      <![CDATA[https://phptravels.com/tours-module-features/-OK]]>
+    </line>
+    <line>
+      <![CDATA[https://phptravels.com/cars-module-features/-OK]]>
+    </line>
+    <line>
+      <![CDATA[https://phptravels.com/offers-module-features/-OK]]>
+    </line>
+    <line>
+      <![CDATA[https://phptravels.com/blog-module-features/-OK]]>
+    </line>
+    <line>
+      <![CDATA[https://phptravels.com/newsletter-module-features/-OK]]>
+    </line>
+    <line>
+      <![CDATA[https://phptravels.com/cms-module-features/-OK]]>
+    </line>
+    <line>
+      <![CDATA[https://phptravels.com/integrations/-OK]]>
+    </line>
+    <line>
+      <![CDATA[https://phptravels.com/services/-OK]]>
+    </line>
+    <line>
+      <![CDATA[https://phptravels.com/integrations/-OK]]>
+    </line>
+    <line>
+      <![CDATA[https://phptravels.com/customizations/-OK]]>
+    </line>
+    <line>
+      <![CDATA[https://phptravels.com/expedia-xml-api-integration/-OK]]>
+    </line>
+    <line>
+      <![CDATA[https://phptravels.com/travel-xml-api-suppliers-list/-OK]]>
+    </line>
+    <line>
+      <![CDATA[https://phptravels.com/providers/-OK]]>
+    </line>
+    <line>
+      <![CDATA[https://phptravels.com/technology/-OK]]>
+    </line>
+    <line>
+      <![CDATA[https://phptravels.com/requirements/-OK]]>
+    </line>
+    <line>
+      <![CDATA[https://phptravels.com/change-log/-OK]]>
+    </line>
+    <line>
+      <![CDATA[https://phptravels.com/mobile-applications/-OK]]>
+    </line>
+    <line>
+      <![CDATA[https://phptravels.com/desktop-application/-OK]]>
+    </line>
+    <line>
+      <![CDATA[https://phptravels.com/updates/-OK]]>
+    </line>
+    <line>
+      <![CDATA[https://phptravels.com/how-to-get-started/-OK]]>
+    </line>
+    <line>
+      <![CDATA[https://docs.phptravels.com/-OK]]>
+    </line>
+    <line>
+      <![CDATA[https://phptravels.com/blog-OK]]>
+    </line>
+    <line>
+      <![CDATA[https://phptravels.com/earn-with-phptravels-OK]]>
+    </line>
+    <line>
+      <![CDATA[https://phptravels.com/about-us/-OK]]>
+    </line>
+    <line>
+      <![CDATA[https://phptravels.com/contact-us/-OK]]>
+    </line>
+    <line>
+      <![CDATA[https://phptravels.com/partners/-OK]]>
+    </line>
+    <line>
+      <![CDATA[https://phptravels.com/the-team/-OK]]>
+    </line>
+    <line>
+      <![CDATA[https://phptravels.com/affiliate/-OK]]>
+    </line>
+    <line>
+      <![CDATA[https://phptravels.com/media-kit/-OK]]>
+    </line>
+    <line>
+      <![CDATA[https://phptravels.com/jobs/-OK]]>
+    </line>
+    <line>
+      <![CDATA[https://phptravels.com/privacy-statement/-OK]]>
+    </line>
+    <line>
+      <![CDATA[https://phptravels.com/terms-and-conditions/-OK]]>
+    </line>
+    <line>
+      <![CDATA[https://phptravels.org/-OK]]>
+    </line>
+    <line>
+      <![CDATA[https://phptravels.org/register.php-OK]]>
+    </line>
+    <line>
+      <![CDATA[https://www.phptravels.net/login-Service Temporarily Unavailableis a broken link]]>
+    </line>
+    <line>
+      <![CDATA[https://www.phptravels.net/login-Service Temporarily Unavailableis a broken link]]>
+    </line>
+    <line>
+      <![CDATA[https://www.phptravels.net/login-Service Temporarily Unavailableis a broken link]]>
+    </line>
+    <line>
+      <![CDATA[https://www.phptravels.net/login-Service Temporarily Unavailableis a broken link]]>
+    </line>
+    <line>
+      <![CDATA[https://www.phptravels.net/admin-Service Temporarily Unavailableis a broken link]]>
+    </line>
+    <line>
+      <![CDATA[https://www.phptravels.net/admin-Service Temporarily Unavailableis a broken link]]>
+    </line>
+    <line>
+      <![CDATA[https://www.phptravels.net/supplier-Service Temporarily Unavailableis a broken link]]>
+    </line>
+    <line>
+      <![CDATA[https://www.phptravels.net/supplier-Service Temporarily Unavailableis a broken link]]>
+    </line>
+    <line>
+      <![CDATA[https://phptravels.com/mobile-applications/-OK]]>
+    </line>
+    <line>
+      <![CDATA[https://itunes.apple.com/us/app/travels-native/id1297567389-OK]]>
+    </line>
+    <line>
+      <![CDATA[https://phptravels.com/mobile-applications/-OK]]>
+    </line>
+    <line>
+      <![CDATA[https://play.google.com/store/apps/details?id=com.phptravelsnative-OK]]>
+    </line>
+    <line>
+      <![CDATA[https://phptravels.com/-OK]]>
+    </line>
+    <line>
+      <![CDATA[https://phptravels.com/desktop-application/-OK]]>
+    </line>
+    <line>
+      <![CDATA[https://phptravels.com/mobile-applications/-OK]]>
+    </line>
+    <line>
+      <![CDATA[https://phptravels.com/features/-OK]]>
+    </line>
+    <line>
+      <![CDATA[https://phptravels.com/requirements/-OK]]>
+    </line>
+    <line>
+      <![CDATA[https://phptravels.com/technology/-OK]]>
+    </line>
+    <line>
+      <![CDATA[https://phptravels.com/change-log/-OK]]>
+    </line>
+    <line>
+      <![CDATA[https://phptravels.com/updates/-OK]]>
+    </line>
+    <line>
+      <![CDATA[https://phptravels.com/providers/-OK]]>
+    </line>
+    <line>
+      <![CDATA[https://phptravels.com/affiliate/-OK]]>
+    </line>
+    <line>
+      <![CDATA[https://phptravels.com/roadmap/-OK]]>
+    </line>
+    <line>
+      <![CDATA[https://phptravels.com/services/-OK]]>
+    </line>
+    <line>
+      <![CDATA[https://phptravels.com/customizations/-OK]]>
+    </line>
+    <line>
+      <![CDATA[https://phptravels.com/change-log/-OK]]>
+    </line>
+    <line>
+      <![CDATA[https://phptravels.com/expedia-api-integration/-OK]]>
+    </line>
+    <line>
+      <![CDATA[https://phptravels.com/shared-hosting/-OK]]>
+    </line>
+    <line>
+      <![CDATA[https://phptravels.com/blog/-OK]]>
+    </line>
+    <line>
+      <![CDATA[https://phptravels.com/about-us/-OK]]>
+    </line>
+    <line>
+      <![CDATA[https://phptravels.com/contact-us/-OK]]>
+    </line>
+    <line>
+      <![CDATA[https://phptravels.com/jobs/-OK]]>
+    </line>
+    <line>
+      <![CDATA[https://phptravels.com/the-team/-OK]]>
+    </line>
+    <line>
+      <![CDATA[https://www.facebook.com/phptravels/-OK]]>
+    </line>
+    <line>
+      <![CDATA[https://www.youtube.com/c/phptravelsofficial-OK]]>
+    </line>
+    <line>
+      <![CDATA[https://www.twitter.com/phptravels-OK]]>
+    </line>
+    <line>
+      <![CDATA[https://www.linkedin.com/company/phptravels/-Request deniedis a broken link]]>
+    </line>
+    <line>
+      <![CDATA[https://www.instagram.com/phptravels_/-OK]]>
+    </line>
+    <line>
+      <![CDATA[https://phptravels.com/terms-and-conditions/-OK]]>
+    </line>
+    <line>
+      <![CDATA[https://phptravels.com/privacy-statement/-OK]]>
+    </line>
+    <line>
+      <![CDATA[https://direct.lc.chat/4618001/-OK]]>
+    </line>
+    <line>
+      <![CDATA[https://phptravels.com/earn-with-phptravels-OK]]>
+    </line>
+    <line>
+      <![CDATA[https://phptravels.com/chat/-OK]]>
+    </line>
+    <line>
+      <![CDATA[https://wa.me/923311442244-OK]]>
+    </line>
   </reporter-output>
-  <suite started-at="2022-02-24T18:56:39 EST" name="Default suite" finished-at="2022-02-24T18:56:52 EST" duration-ms="12859">
+  <suite started-at="2022-02-24T23:08:26 EST" name="Default suite" finished-at="2022-02-24T23:09:08 EST" duration-ms="42579">
     <groups>
     </groups>
-    <test started-at="2022-02-24T18:56:39 EST" name="Default test" finished-at="2022-02-24T18:56:52 EST" duration-ms="12859">
-      <class name="com.automation.practice3.buyProduct">
-        <test-method signature="buy()[pri:0, instance:com.automation.practice3.buyProduct@529cfee5]" started-at="2022-02-24T18:56:39 EST" name="buy" finished-at="2022-02-24T18:56:52 EST" duration-ms="12593" status="FAIL">
-          <exception class="org.openqa.selenium.NoSuchElementException">
-            <message>
-              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//ul[@class='product_list grid row']/li"}
-  (Session info: chrome=98.0.4758.102)
-For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
-Build info: version: '4.1.2', revision: '9a5a329c5a'
-System info: host: 'DESKTOP-PSPSVDJ', ip: '172.30.208.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [b10dd14cb637ff41753aec2c92965660, findElement {using=xpath, value=//ul[@class='product_list grid row']/li}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.102, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\mathu\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63950}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:63950/devtoo..., se:cdpVersion: 98.0.4758.102, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: b10dd14cb637ff41753aec2c92965660]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//ul[@class='product_list grid row']/li"}
-  (Session info: chrome=98.0.4758.102)
-For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
-Build info: version: '4.1.2', revision: '9a5a329c5a'
-System info: host: 'DESKTOP-PSPSVDJ', ip: '172.30.208.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [b10dd14cb637ff41753aec2c92965660, findElement {using=xpath, value=//ul[@class='product_list grid row']/li}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.102, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\mathu\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63950}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:63950/devtoo..., se:cdpVersion: 98.0.4758.102, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: b10dd14cb637ff41753aec2c92965660
-at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
-at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
-at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
-at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)
-at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
-at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
-at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
-at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
-at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
-at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)
-at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:558)
-at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
-at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
-at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:382)
-at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:374)
-at com.automation.practice3.buyProduct.mouseOver_Tshirts(buyProduct.java:27)
-at com.automation.practice3.buyProduct.buy(buyProduct.java:35)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
-at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-at java.base/java.lang.reflect.Method.invoke(Method.java:566)
-at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:135)
-at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:673)
-at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:220)
-at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
-at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:945)
-at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:193)
-at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
-at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
-at java.base/java.util.ArrayList.forEach(ArrayList.java:1540)
-at org.testng.TestRunner.privateRun(TestRunner.java:808)
-at org.testng.TestRunner.run(TestRunner.java:603)
-at org.testng.SuiteRunner.runTest(SuiteRunner.java:429)
-at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:423)
-at org.testng.SuiteRunner.privateRun(SuiteRunner.java:383)
-at org.testng.SuiteRunner.run(SuiteRunner.java:326)
-at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
-at org.testng.TestNG.runSuitesSequentially(TestNG.java:1249)
-at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
-at org.testng.TestNG.runSuites(TestNG.java:1092)
-at org.testng.TestNG.run(TestNG.java:1060)
-at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
-at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
-]]>
-            </full-stacktrace>
-          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+    <test started-at="2022-02-24T23:08:26 EST" name="Default test" finished-at="2022-02-24T23:09:08 EST" duration-ms="42579">
+      <class name="com.automation.practice4.brokenLinksVerify">
+        <test-method signature="links()[pri:0, instance:com.automation.practice4.brokenLinksVerify@3a022576]" started-at="2022-02-24T23:08:26 EST" name="links" finished-at="2022-02-24T23:09:08 EST" duration-ms="42499" status="PASS">
           <reporter-output>
+            <line>
+              <![CDATA[85No. of links]]>
+            </line>
+            <line>
+              <![CDATA[https://phptravels.com/-OK]]>
+            </line>
+            <line>
+              <![CDATA[https://phptravels.com/demo-OK]]>
+            </line>
+            <line>
+              <![CDATA[https://phptravels.com/order-OK]]>
+            </line>
+            <line>
+              <![CDATA[https://phptravels.com/features-OK]]>
+            </line>
+            <line>
+              <![CDATA[https://phptravels.com/hotels-module-features/-OK]]>
+            </line>
+            <line>
+              <![CDATA[https://phptravels.com/flights-module-features/-OK]]>
+            </line>
+            <line>
+              <![CDATA[https://phptravels.com/tours-module-features/-OK]]>
+            </line>
+            <line>
+              <![CDATA[https://phptravels.com/cars-module-features/-OK]]>
+            </line>
+            <line>
+              <![CDATA[https://phptravels.com/offers-module-features/-OK]]>
+            </line>
+            <line>
+              <![CDATA[https://phptravels.com/blog-module-features/-OK]]>
+            </line>
+            <line>
+              <![CDATA[https://phptravels.com/newsletter-module-features/-OK]]>
+            </line>
+            <line>
+              <![CDATA[https://phptravels.com/cms-module-features/-OK]]>
+            </line>
+            <line>
+              <![CDATA[https://phptravels.com/integrations/-OK]]>
+            </line>
+            <line>
+              <![CDATA[https://phptravels.com/services/-OK]]>
+            </line>
+            <line>
+              <![CDATA[https://phptravels.com/integrations/-OK]]>
+            </line>
+            <line>
+              <![CDATA[https://phptravels.com/customizations/-OK]]>
+            </line>
+            <line>
+              <![CDATA[https://phptravels.com/expedia-xml-api-integration/-OK]]>
+            </line>
+            <line>
+              <![CDATA[https://phptravels.com/travel-xml-api-suppliers-list/-OK]]>
+            </line>
+            <line>
+              <![CDATA[https://phptravels.com/providers/-OK]]>
+            </line>
+            <line>
+              <![CDATA[https://phptravels.com/technology/-OK]]>
+            </line>
+            <line>
+              <![CDATA[https://phptravels.com/requirements/-OK]]>
+            </line>
+            <line>
+              <![CDATA[https://phptravels.com/change-log/-OK]]>
+            </line>
+            <line>
+              <![CDATA[https://phptravels.com/mobile-applications/-OK]]>
+            </line>
+            <line>
+              <![CDATA[https://phptravels.com/desktop-application/-OK]]>
+            </line>
+            <line>
+              <![CDATA[https://phptravels.com/updates/-OK]]>
+            </line>
+            <line>
+              <![CDATA[https://phptravels.com/how-to-get-started/-OK]]>
+            </line>
+            <line>
+              <![CDATA[https://docs.phptravels.com/-OK]]>
+            </line>
+            <line>
+              <![CDATA[https://phptravels.com/blog-OK]]>
+            </line>
+            <line>
+              <![CDATA[https://phptravels.com/earn-with-phptravels-OK]]>
+            </line>
+            <line>
+              <![CDATA[https://phptravels.com/about-us/-OK]]>
+            </line>
+            <line>
+              <![CDATA[https://phptravels.com/contact-us/-OK]]>
+            </line>
+            <line>
+              <![CDATA[https://phptravels.com/partners/-OK]]>
+            </line>
+            <line>
+              <![CDATA[https://phptravels.com/the-team/-OK]]>
+            </line>
+            <line>
+              <![CDATA[https://phptravels.com/affiliate/-OK]]>
+            </line>
+            <line>
+              <![CDATA[https://phptravels.com/media-kit/-OK]]>
+            </line>
+            <line>
+              <![CDATA[https://phptravels.com/jobs/-OK]]>
+            </line>
+            <line>
+              <![CDATA[https://phptravels.com/privacy-statement/-OK]]>
+            </line>
+            <line>
+              <![CDATA[https://phptravels.com/terms-and-conditions/-OK]]>
+            </line>
+            <line>
+              <![CDATA[https://phptravels.org/-OK]]>
+            </line>
+            <line>
+              <![CDATA[https://phptravels.org/register.php-OK]]>
+            </line>
+            <line>
+              <![CDATA[https://www.phptravels.net/login-Service Temporarily Unavailableis a broken link]]>
+            </line>
+            <line>
+              <![CDATA[https://www.phptravels.net/login-Service Temporarily Unavailableis a broken link]]>
+            </line>
+            <line>
+              <![CDATA[https://www.phptravels.net/login-Service Temporarily Unavailableis a broken link]]>
+            </line>
+            <line>
+              <![CDATA[https://www.phptravels.net/login-Service Temporarily Unavailableis a broken link]]>
+            </line>
+            <line>
+              <![CDATA[https://www.phptravels.net/admin-Service Temporarily Unavailableis a broken link]]>
+            </line>
+            <line>
+              <![CDATA[https://www.phptravels.net/admin-Service Temporarily Unavailableis a broken link]]>
+            </line>
+            <line>
+              <![CDATA[https://www.phptravels.net/supplier-Service Temporarily Unavailableis a broken link]]>
+            </line>
+            <line>
+              <![CDATA[https://www.phptravels.net/supplier-Service Temporarily Unavailableis a broken link]]>
+            </line>
+            <line>
+              <![CDATA[https://phptravels.com/mobile-applications/-OK]]>
+            </line>
+            <line>
+              <![CDATA[https://itunes.apple.com/us/app/travels-native/id1297567389-OK]]>
+            </line>
+            <line>
+              <![CDATA[https://phptravels.com/mobile-applications/-OK]]>
+            </line>
+            <line>
+              <![CDATA[https://play.google.com/store/apps/details?id=com.phptravelsnative-OK]]>
+            </line>
+            <line>
+              <![CDATA[https://phptravels.com/-OK]]>
+            </line>
+            <line>
+              <![CDATA[https://phptravels.com/desktop-application/-OK]]>
+            </line>
+            <line>
+              <![CDATA[https://phptravels.com/mobile-applications/-OK]]>
+            </line>
+            <line>
+              <![CDATA[https://phptravels.com/features/-OK]]>
+            </line>
+            <line>
+              <![CDATA[https://phptravels.com/requirements/-OK]]>
+            </line>
+            <line>
+              <![CDATA[https://phptravels.com/technology/-OK]]>
+            </line>
+            <line>
+              <![CDATA[https://phptravels.com/change-log/-OK]]>
+            </line>
+            <line>
+              <![CDATA[https://phptravels.com/updates/-OK]]>
+            </line>
+            <line>
+              <![CDATA[https://phptravels.com/providers/-OK]]>
+            </line>
+            <line>
+              <![CDATA[https://phptravels.com/affiliate/-OK]]>
+            </line>
+            <line>
+              <![CDATA[https://phptravels.com/roadmap/-OK]]>
+            </line>
+            <line>
+              <![CDATA[https://phptravels.com/services/-OK]]>
+            </line>
+            <line>
+              <![CDATA[https://phptravels.com/customizations/-OK]]>
+            </line>
+            <line>
+              <![CDATA[https://phptravels.com/change-log/-OK]]>
+            </line>
+            <line>
+              <![CDATA[https://phptravels.com/expedia-api-integration/-OK]]>
+            </line>
+            <line>
+              <![CDATA[https://phptravels.com/shared-hosting/-OK]]>
+            </line>
+            <line>
+              <![CDATA[https://phptravels.com/blog/-OK]]>
+            </line>
+            <line>
+              <![CDATA[https://phptravels.com/about-us/-OK]]>
+            </line>
+            <line>
+              <![CDATA[https://phptravels.com/contact-us/-OK]]>
+            </line>
+            <line>
+              <![CDATA[https://phptravels.com/jobs/-OK]]>
+            </line>
+            <line>
+              <![CDATA[https://phptravels.com/the-team/-OK]]>
+            </line>
+            <line>
+              <![CDATA[https://www.facebook.com/phptravels/-OK]]>
+            </line>
+            <line>
+              <![CDATA[https://www.youtube.com/c/phptravelsofficial-OK]]>
+            </line>
+            <line>
+              <![CDATA[https://www.twitter.com/phptravels-OK]]>
+            </line>
+            <line>
+              <![CDATA[https://www.linkedin.com/company/phptravels/-Request deniedis a broken link]]>
+            </line>
+            <line>
+              <![CDATA[https://www.instagram.com/phptravels_/-OK]]>
+            </line>
+            <line>
+              <![CDATA[https://phptravels.com/terms-and-conditions/-OK]]>
+            </line>
+            <line>
+              <![CDATA[https://phptravels.com/privacy-statement/-OK]]>
+            </line>
+            <line>
+              <![CDATA[https://direct.lc.chat/4618001/-OK]]>
+            </line>
+            <line>
+              <![CDATA[https://phptravels.com/earn-with-phptravels-OK]]>
+            </line>
+            <line>
+              <![CDATA[https://phptravels.com/chat/-OK]]>
+            </line>
+            <line>
+              <![CDATA[https://wa.me/923311442244-OK]]>
+            </line>
           </reporter-output>
-        </test-method> <!-- buy -->
-        <test-method signature="totalPriceVerify()[pri:0, instance:com.automation.practice3.buyProduct@529cfee5]" started-at="2022-02-24T18:56:52 EST" name="totalPriceVerify" finished-at="2022-02-24T18:56:52 EST" duration-ms="134" status="FAIL">
-          <exception class="org.openqa.selenium.NoSuchElementException">
-            <message>
-              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//a[@title='Women']"}
-  (Session info: chrome=98.0.4758.102)
-For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
-Build info: version: '4.1.2', revision: '9a5a329c5a'
-System info: host: 'DESKTOP-PSPSVDJ', ip: '172.30.208.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [b10dd14cb637ff41753aec2c92965660, findElement {using=xpath, value=//a[@title='Women']}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.102, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\mathu\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63950}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:63950/devtoo..., se:cdpVersion: 98.0.4758.102, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: b10dd14cb637ff41753aec2c92965660]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//a[@title='Women']"}
-  (Session info: chrome=98.0.4758.102)
-For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
-Build info: version: '4.1.2', revision: '9a5a329c5a'
-System info: host: 'DESKTOP-PSPSVDJ', ip: '172.30.208.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [b10dd14cb637ff41753aec2c92965660, findElement {using=xpath, value=//a[@title='Women']}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.102, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\mathu\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63950}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:63950/devtoo..., se:cdpVersion: 98.0.4758.102, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: b10dd14cb637ff41753aec2c92965660
-at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
-at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
-at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
-at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)
-at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
-at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
-at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
-at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
-at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
-at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)
-at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:558)
-at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
-at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
-at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:382)
-at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:374)
-at com.automation.practice3.buyProduct.mouseOver_Tshirts(buyProduct.java:20)
-at com.automation.practice3.buyProduct.totalPriceVerify(buyProduct.java:111)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
-at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-at java.base/java.lang.reflect.Method.invoke(Method.java:566)
-at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:135)
-at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:673)
-at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:220)
-at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
-at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:945)
-at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:193)
-at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
-at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
-at java.base/java.util.ArrayList.forEach(ArrayList.java:1540)
-at org.testng.TestRunner.privateRun(TestRunner.java:808)
-at org.testng.TestRunner.run(TestRunner.java:603)
-at org.testng.SuiteRunner.runTest(SuiteRunner.java:429)
-at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:423)
-at org.testng.SuiteRunner.privateRun(SuiteRunner.java:383)
-at org.testng.SuiteRunner.run(SuiteRunner.java:326)
-at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
-at org.testng.TestNG.runSuitesSequentially(TestNG.java:1249)
-at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
-at org.testng.TestNG.runSuites(TestNG.java:1092)
-at org.testng.TestNG.run(TestNG.java:1060)
-at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
-at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
-]]>
-            </full-stacktrace>
-          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- totalPriceVerify -->
-        <test-method signature="wishlist()[pri:0, instance:com.automation.practice3.buyProduct@529cfee5]" started-at="2022-02-24T18:56:52 EST" name="wishlist" finished-at="2022-02-24T18:56:52 EST" duration-ms="87" status="FAIL">
-          <exception class="org.openqa.selenium.NoSuchElementException">
-            <message>
-              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//a[@title='Women']"}
-  (Session info: chrome=98.0.4758.102)
-For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
-Build info: version: '4.1.2', revision: '9a5a329c5a'
-System info: host: 'DESKTOP-PSPSVDJ', ip: '172.30.208.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [b10dd14cb637ff41753aec2c92965660, findElement {using=xpath, value=//a[@title='Women']}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.102, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\mathu\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63950}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:63950/devtoo..., se:cdpVersion: 98.0.4758.102, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: b10dd14cb637ff41753aec2c92965660]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//a[@title='Women']"}
-  (Session info: chrome=98.0.4758.102)
-For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
-Build info: version: '4.1.2', revision: '9a5a329c5a'
-System info: host: 'DESKTOP-PSPSVDJ', ip: '172.30.208.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [b10dd14cb637ff41753aec2c92965660, findElement {using=xpath, value=//a[@title='Women']}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.102, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\mathu\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63950}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:63950/devtoo..., se:cdpVersion: 98.0.4758.102, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: b10dd14cb637ff41753aec2c92965660
-at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
-at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
-at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
-at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)
-at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
-at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
-at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
-at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
-at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
-at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)
-at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:558)
-at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
-at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
-at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:382)
-at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:374)
-at com.automation.practice3.buyProduct.mouseOver_Tshirts(buyProduct.java:20)
-at com.automation.practice3.buyProduct.wishlist(buyProduct.java:89)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
-at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-at java.base/java.lang.reflect.Method.invoke(Method.java:566)
-at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:135)
-at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:673)
-at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:220)
-at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
-at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:945)
-at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:193)
-at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
-at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
-at java.base/java.util.ArrayList.forEach(ArrayList.java:1540)
-at org.testng.TestRunner.privateRun(TestRunner.java:808)
-at org.testng.TestRunner.run(TestRunner.java:603)
-at org.testng.SuiteRunner.runTest(SuiteRunner.java:429)
-at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:423)
-at org.testng.SuiteRunner.privateRun(SuiteRunner.java:383)
-at org.testng.SuiteRunner.run(SuiteRunner.java:326)
-at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
-at org.testng.TestNG.runSuitesSequentially(TestNG.java:1249)
-at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
-at org.testng.TestNG.runSuites(TestNG.java:1092)
-at org.testng.TestNG.run(TestNG.java:1060)
-at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
-at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
-]]>
-            </full-stacktrace>
-          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- wishlist -->
-      </class> <!-- com.automation.practice3.buyProduct -->
+        </test-method> <!-- links -->
+      </class> <!-- com.automation.practice4.brokenLinksVerify -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
