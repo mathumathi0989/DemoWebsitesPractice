@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.automation.practice4.brokenLinksVerify">
+      <class name="com.automation.practice5.staticDataTable">
         <methods>
-          <include name="links"/>
+          <include name="staticTB1"/>
         </methods>
-      </class> <!-- com.automation.practice4.brokenLinksVerify -->
+      </class> <!-- com.automation.practice5.staticDataTable -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
