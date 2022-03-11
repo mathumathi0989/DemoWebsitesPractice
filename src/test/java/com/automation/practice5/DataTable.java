@@ -1,5 +1,7 @@
 package com.automation.practice5;
 
+import java.util.ArrayList;
+import java.util.Collections;
 import java.util.List;
 
 import org.openqa.selenium.By;
@@ -16,6 +18,9 @@ import io.opentelemetry.exporter.logging.SystemOutLogExporter;
 public class DataTable {
 
 	WebDriver driver = DriverSingleton.getDriver();
+	public String struct = "Burj Khalifa";
+	public String colValue = "Height";
+	public List<String> li = new ArrayList<String>();	
 	
 	public void staticTB() {
 		driver.get("https://www.techlistic.com/p/demo-selenium-practice.html");
@@ -63,7 +68,7 @@ public class DataTable {
 	
 	
 	//Verify that there are only 4 structure values present in the demo table 2.
-	//@Test
+	@Test(enabled=false)
 	public void dynamicTB() {
 		driver.get("https://www.techlistic.com/p/demo-selenium-practice.html");
 		WebElement table = driver.findElement(By.xpath("//table[@class='tsc_table_s13']/tbody"));
@@ -91,7 +96,7 @@ public class DataTable {
 	
 	
 	//Verify that Burj Khalifa has a height of 829m with Selenium
-	//@Test
+	@Test(enabled=false)
 	public void sharanyaburjHeight() {
 		driver.get("https://www.techlistic.com/p/demo-selenium-practice.html");
 		WebElement table = driver.findElement(By.xpath("//table[@class='tsc_table_s13']/tbody"));
@@ -118,28 +123,41 @@ public class DataTable {
 		
 		}
 	
-	@Test
+	@Test(enabled=false)
 	public void khalifaHeight() {
 		driver.get("https://www.techlistic.com/p/demo-selenium-practice.html");
+		List<WebElement> rowList = driver.findElements(By.xpath("//table[@class='tsc_table_s13']/tbody//th"));
+		for (int i=0; i <rowList.size(); i++) {
+			String row = rowList.get(i).getText();
+			if(row.equalsIgnoreCase(struct)) {
+				List<WebElement> colList = driver.findElements(By.xpath("//table[@class='tsc_table_s13']/thead//th"));
+				for (int j=0; j<colList.size(); j++) {
+					String col = colList.get(j).getText();
+						if(col.equalsIgnoreCase(colValue)) {
+							String value = driver.findElement(By.xpath("//table[@class='tsc_table_s13']//th[contains(text(),'"+row+"')]/following-sibling::td["+j+"]")).getText();
+							System.out.println(row +" height is "+value);
+							break;
+						}
+					}
+				
+			}
 		
-	
+		}
 		
 	
 	
 	}
 
 	//Verify that 6th row of the table (Last Row) has only two columns with Selenium
-	//@Test
+	@Test(enabled=false)
 	public void lastrow() {
 		driver.get("https://www.techlistic.com/p/demo-selenium-practice.html");
-		
 		List<WebElement> last = driver.findElements(By.xpath("//table[@class='tsc_table_s13']/tfoot/tr/*"));
 		for (WebElement rowLast : last) {
 			System.out.println(rowLast.getText());
 			System.out.println();
-			
 		}
-		System.out.println("Last row of the table " +last.size());
+		System.out.println("Last row of the table has only " +last.size() +" columns");
 		
 		
 		
@@ -148,7 +166,33 @@ public class DataTable {
 	
 	
 	//Find the tallest structure in the table with Selenium
+	@Test
+	public void tall() {
+		driver.get("https://www.techlistic.com/p/demo-selenium-practice.html");
+		List<WebElement> rowList = driver.findElements(By.xpath("//table[@class='tsc_table_s13']/tbody//th"));
+		List<WebElement> colList = driver.findElements(By.xpath("//table[@class='tsc_table_s13']/thead//th"));
+		for(int i =1; i<=rowList.size(); i++) {
+					for(int j=1;j<colList.size();j++)
+					{
+						String col = colList.get(j).getText();
+						if (col.equalsIgnoreCase("Height")) {
+							List<WebElement> value = driver.findElements(By.xpath("//table[@class='tsc_table_s13']/tbody/tr["+i+"]/td["+j+"]"));
+							for(int k=0; k<value.size();) {
+								String high = value.get(k).getText();
+								
+								li.add(high);
+								
+								break;
+							}
+						}
+					}
+		}
+		Collections.sort(li, Collections.reverseOrder());
+		
+		System.out.println(li);
+		System.out.println("The Tallest structure in the table is " +li.get(0));
 	
+	}
 	
 	
 	

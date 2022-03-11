@@ -14,7 +14,7 @@ import org.testng.annotations.Test;
 
 import com.automation.practice1.DriverSingleton;
 
-public class brokenLinksVerify {
+public class brokenLinksVerifyTest {
 
 	static WebDriver driver = DriverSingleton.getDriver();
 	public static String linkg;
