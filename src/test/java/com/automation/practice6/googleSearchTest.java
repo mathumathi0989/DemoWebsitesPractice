@@ -11,7 +11,7 @@ import org.testng.annotations.Test;
 
 import com.automation.practice1.DriverSingleton;
 
-public class googleSearch {
+public class googleSearchTest {
 
 	WebDriver driver = DriverSingleton.getDriver();
 	@Test
